@@ -2,11 +2,13 @@ Test task: Create one-page application using NextJS, Typescript and Tailwind.
 
 ## Getting Started
 
-First, run the development server:
+First, install all packages and then run the development server:
 
 ```bash
+npm install
 npm run dev
 # or
+yarn
 yarn dev
 ```
 
