@@ -1,4 +1,4 @@
-Test task: Create 1 page application using NextJS, Typescript and Tailwind.
+Test task: Create one-page application using NextJS, Typescript and Tailwind.
 
 ## Getting Started
 
